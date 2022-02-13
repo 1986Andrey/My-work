@@ -635,4 +635,14 @@
     margin-left: 40px;
     margin-bottom: 60px;
   }
+
+  .quit {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-top: 30px;
+    margin-bottom: 41px;
+    margin-left: 42%;
+    margin-right: auto;
+  }
   
